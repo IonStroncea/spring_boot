@@ -1,0 +1,108 @@
+body{
+	background-color: #2F4F4F;
+}
+.top{
+	height: 75px;
+}
+.center_cont{
+	width: 1500px;
+	margin:auto;
+	background-color: #FFFAF0;
+	min-height: 700px;
+	padding-bottom: 40px;
+}
+.about{
+	margin :auto;
+	width: 1000px;
+	margin-top:50px;
+	border-style:solid;
+	border-width: 2px;
+	border-radius: 5px;
+	padding: 10px;
+}
+.info
+{
+	width: 700px;
+	margin-top: 25px;
+	margin-left:40px;
+}
+.post
+{
+	width: 1000px;
+	margin-top: 25px;
+	margin-left:40px;
+	border-style: solid;
+	padding:5px;
+	border-radius: 5px;
+	padding-bottom: 10px;
+}
+.post_auth
+{
+	padding-left: 5px;
+}
+
+.post_content
+{
+	margin-top: 10px;
+}
+.text_area
+{	
+	margin-left: 40px;
+	margin-top: 10px;
+}
+.submit_button
+{
+	margin-left: 1330px;
+}
+.login_form
+{
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+}
+.login_input
+{
+	border-radius:5px;
+}
+.login_input2
+{
+	margin-left: 12px;
+}
+.login_text
+{
+	width: 90px;
+	margin:auto;
+	margin-top: 10px;
+}
+.register_text
+{
+	width: 130px;
+	margin:auto;
+	margin-top: 10px;
+}
+.buton_add
+{
+	margin-left:40px;
+	margin-top:10px;
+}
+
+.buton_next
+{
+
+	margin-top:20px;
+}
+.b_next
+{
+	margin-left:687px;
+}
+.b_prev
+{
+	margin-left:40px;
+}
+.user_infoName
+{
+	margin-top: 10px;
+	margin-left: 20px;
+	padding: 5px;
+}
