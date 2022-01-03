@@ -1,0 +1,12 @@
+ru\alishev\springcourse\controller\RegistrationController.class
+ru\alishev\springcourse\Main.class
+ru\alishev\springcourse\controller\GreetingController.class
+ru\alishev\springcourse\models\User.class
+ru\alishev\springcourse\repo\PostunivRepository.class
+ru\alishev\springcourse\config\MvcConfig.class
+ru\alishev\springcourse\models\Themes.class
+ru\alishev\springcourse\config\WebSecurityConfig.class
+ru\alishev\springcourse\service\UserSevice.class
+ru\alishev\springcourse\models\Role.class
+ru\alishev\springcourse\repo\UserRepo.class
+ru\alishev\springcourse\models\Postuniv.class
